@@ -12,7 +12,7 @@ const codes = [
 ];
 
 const clen = codes.length;
-let pos = 0;
+var pos = 0;
 
 
 function init() {
@@ -33,6 +33,6 @@ function init() {
     index = 0;
   }
 });
-}{}
+}
 
 
